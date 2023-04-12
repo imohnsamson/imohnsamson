@@ -1,4 +1,4 @@
-<h1>Hi, I'm Imoh! <br/><a href="https://www.linkedin.com/in/imoh-samson/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Imoh! <br/><a href="https://www.linkedin.com/in/imoh-samson/">Technology Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
