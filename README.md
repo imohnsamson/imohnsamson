@@ -2,7 +2,10 @@
 
 <h2>Projects!<br/><a href=""></a></h2>
 
-<h3>Data Structure & Algorithm<br/><a href=""></a></h3>
+<h3>Data Structures & Algorithm<br/><a href=""></a></h3>
+<h3>Full Stack Development<br/><a href=""></a></h3>
+<h3>DevOps & Platform Engineering<br/><a href=""></a></h3>
+<h3>Cloud Engineering<br/><a href=""></a></h3>
 
 
 
